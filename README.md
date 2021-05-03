@@ -44,4 +44,4 @@ ___
 
 ### Module 01 : Identity
 
-### [Learning Path](https://docs.microsoft.com/learn/paths/az-104-manage-identities-governance/)
+### [Learning Path -> AZ-104: Manage identities and governance in Azure](https://docs.microsoft.com/learn/paths/az-104-manage-identities-governance/)
