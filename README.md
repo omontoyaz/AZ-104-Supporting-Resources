@@ -21,7 +21,27 @@ Prerequisites for Azure Administrators. This free online training will give you 
 need to be successful in this course.
 
 [AZ-104: Prerequisites for Azure administrators](https://docs.microsoft.com/en-us/learn/paths/az-104-administrator-prerequisites/)
+___
+
+
+> For more preparation and understanding of the Azure cloud, consider the many free resources to prepare for the AZ-900 Azure fundamentals certification:
+
+[Microsoft Certified: Azure Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/)
 
 ___
 
-## Module 01 : Identity
+## Study Resources
+
+### These are useful resources for the whole AZ-104 content area.
+
+#### [Exam AZ-104: Microsoft Azure Administrator](https://docs.microsoft.com/en-us/learn/certifications/exams/az-104)
+> Includes exam details and Microsoft Learn Path for Azure Administrator
+
+#### [AZ-104 Study Guide by Thomas Maurer](https://www.thomasmaurer.ch/2020/03/az-104-study-guide-azure-administrator/)
+___
+
+## Course Content
+
+### Module 01 : Identity
+
+### [Learning Path](https://docs.microsoft.com/learn/paths/az-104-manage-identities-governance/)
