@@ -45,3 +45,20 @@ ___
 ### Module 01 : Identity
 
 ### [Learning Path -> AZ-104: Manage identities and governance in Azure](https://docs.microsoft.com/learn/paths/az-104-manage-identities-governance/)
+
+
+
+### Module 02 : Governance
+
+#### Create Custom Role
+
+- [Create or update Azure custom roles using Azure PowerShell - Azure RBAC | Microsoft Docs](https://docs.microsoft.com/en-us/azure/role-based-access-control/custom-roles-powershell)
+
+### Module 03 : Azure Administration
+
+#### David's talk on Azure PowerShell
+
+- [MCSFUG 104: Azure Fundamentals / Azure PowerShell - YouTube](https://www.youtube.com/watch?v=_Bu6gRTKm1g&t=1s)
+
+#### David's talk on Azure CLI
+ - [Exploring Azure via Azure CLI - YouTube](https://www.youtube.com/watch?v=RQbUrpki5FA)
